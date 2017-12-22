@@ -1,0 +1,1 @@
+Educational assignment on AJAX at Coding Dojo
